@@ -1,64 +1,53 @@
 # Paid Placements
 
-Paid Placements help you drive clicks by placing your product in prominent category and competitor listing positions.In this section, you'll go through a complete guide of selecting placements, configuring destination URLs.
+Paid Placements help you drive clicks by placing your product in prominent category and competitor listing positions. In this section, you'll go through a complete guide of selecting placements, configuring destination URLs.
 
 ## **Create a New Paid Placement**
 
-The **Paid Placement** screen appears when you click **Buy Placements** on the Placement page. You can add multiple paid placements on category and competitor placements.
+Upon clicking the **Buy Placements** button on the landing page, the system takes you to the placements creation page. You can add multiple paid placements for both category and competitor positions.
 
-#### Campaign Name
+#### Steps for Category Placement(s)
 
-- Open the **Promotions** page.
-- Click **Buy New Placements**.
-- Edit the prepopulated **Campaign Name** as per need.
+1. Review or edit the campaign name according to your choice.
+2. Select the preferred placements from the category list.
+3. Choose from the available spot positions, i.e. **1<sup>st</sup> , 2<sup>nd</sup> , 3<sup>rd</sup>, and 4<sup>th</sup>**. The 4<sup>th</sup> placement will always be a shared spot.
+4. Click on the Available Duration dropdown and choose from the provided options, i.e. **3 Months, 6 Months, 9 Months, and 12 Months**.
 
-#### Select Category Placement(s)
+**Note:** Once a spot is booked for a selected duration, it remains unavailable for that time frame. If the same spot is already booked, your placement will be scheduled for the next available date range based on your selected duration, i.e. 3, 6, 9, or 12 months.
 
-- Go to the **Category Placements** section.
-- Review available categories with their traffic volume, pricing, and available spot positions, i.e. 1<sup>st</sup> , 2<sup>nd</sup> , 3<sup>rd</sup>, and 4<sup>th</sup>.
-- Choose an available **Spot** position.
-- Click on the **Available Duration** dropdown. Select from the available duration options, i.e. **3 Months**, **6 Months**, or **9 Months**.
-- Review the payment against the spot
-- Select the checkbox next to the category to add to the selected placements list.
+5. Review the payment against the spot.
+6. Review the Selected Placements panel on the right.
+7. Hover over a selected placement, and you will see the **X icon** to cancel any selected placement.
 
-#### Select Competitor Placement(s)
+#### Steps for Competitor Placement(s)
 
-- Select the competitor's placements you want to purchase.
-- Choose the available duration for each competitor's placement, i.e. 1<sup>st</sup> shared.
-- Review the price for each selected placement.
-- Click **Next** to continue.
+1. Select the competitor's placements you want to purchase.
+2. Choose the available duration for each competitor's placement, i.e. 1<sup>st</sup> shared.
+3.  Review the price for each selected placement.
+4.  Review the **Selected Placements** panel on the right.
+5.  Hover over a selected placement, and you will see the **X icon** to cancel any selected placement.
+6.  Once done, Click **Next** to continue.
 
-#### Review Selected Placements
-
-- Review the **Selected Placements** panel on the right.
-- Check the placement name, placement type, and price.
-- Hover over a selected placement if you want to remove it.
-- Click the **X** icon to cancel the selected placement.
-- Review the updated total.
-- Click **Next** to continue.
+**Note:** You can select placements from both Category Placements and Competitor Placements, or choose placements from only one section, based on your campaign requirements.
 
 ### **Details**
 
-<div class="joplin-table-wrapper"><table><tbody><tr><th><p><strong>Field</strong></p></th><th><p><strong>Description</strong></p></th></tr><tr><td><p><strong>Campaign Name</strong></p></td><td><p>Displays the name of the campaign. You can edit the name according to your preference.</p></td></tr><tr><td><p><strong>Checkbox</strong></p></td><td><p>Select the category of placement you want to include in the campaign. You can select multiple categories.</p></td></tr><tr><td><p><strong>Categories/ Competitors</strong></p></td><td><p>Displays the categories/competitors' names.</p></td></tr><tr><td><p><strong>Traffic</strong></p></td><td><p>Shows the available traffic volume for that category/competitor.</p></td></tr><tr><td><p><strong>Spot</strong></p></td><td><p>Let's you choose the placement position of category and competitor</p></td></tr><tr><td><p><strong>Price</strong></p></td><td><p>Shows the cost of the selected category/competitor placement.</p></td></tr><tr><td><p><strong>Search</strong></p></td><td><p>Helps you find a specific category/competitor.</p></td></tr><tr><td><p><strong>Available Duration</strong></p></td><td><p>Let's select the time for the selected placement spot.</p><ul><li><strong>Placement Duration</strong> - Shows the available booking periods for the selected category/competitor.</li><li><strong>Booked Until Date </strong>- Shows when the current booking for that spot ends.</li><li><strong>Duration Options</strong> - Lets you choose the length of the placement</li><li><strong>Date Range</strong> - Shows the exact start and end date for each available duration.</li></ul></td></tr></tbody></table></div>
+<div class="joplin-table-wrapper"><table><tbody><tr><th><p><strong>Field</strong></p></th><th><p><strong>Description</strong></p></th></tr><tr><td><p><strong>Campaign Name</strong></p></td><td><p>Displays the name of the campaign. You can edit the name according to your preference.</p></td></tr><tr><td><p><strong>Categories/ Competitors</strong></p></td><td><p>Displays the categories/competitors' names. You can select multiple categories/competitors.</p></td></tr><tr><td><p><strong>Traffic</strong></p></td><td><p>Shows the available traffic volume for that category/competitor.</p></td></tr><tr><td><p><strong>Spot</strong></p></td><td><p>Displays options of the placement position of category and competitor.</p></td></tr><tr><td><p><strong>Price</strong></p></td><td><p>Shows the cost of the selected category/competitor placement.</p></td></tr><tr><td><p><strong>Search</strong></p></td><td><p>Helps you find a specific category/competitor.</p></td></tr><tr><td><p><strong>Available Duration</strong></p></td><td><p>Let's select the time for the selected placement spot.</p><ul><li><strong>Placement Duration</strong> - Shows the available booking periods for the selected category/competitor.</li><li><strong>Booked Until Date </strong>- Shows when the current booking for that spot ends.</li><li><strong>Duration Options</strong> - Lets you choose the length of the placement</li><li><strong>Date Range</strong> - Shows the exact start and end date for each available duration.</li></ul></td></tr></tbody></table></div>
 
 #### Select a Destination URL
 
-The **Destination URL** screen appears after you click **Next** from the placement selection step. Use this screen to choose where your paid placement sends traffic.
+The **Destination URL** screen displays a radio button for you to select the path of the URL.
 
-- Choose one of the available destination options:
-  - **Profile URL**
-
-- Select **Profile URL** to send traffic directly to your existing Software Finder vendor profile.
-  - **Custom URL**
-- Select the **Custom URL.** Once selected, the system displays additional fields, including **Custom Button Text**, where you choose the call-to-action button from the dropdown options.
-
-- Click **Next** to continue.
+1. Choose one of the available destination options:
+   - **Profile URL** - Select Profile URL to send traffic directly to the existing link already added to your Software Finder vendor profile.
+   - **Custom URL** - Select Custom URL to add a custom destination link and choose the call-to-action button from the Custom Button Text dropdown.
+2. Click **Next** to continue.
 
 #### Review and Complete Payment
 
-The **Review** screen appears after you click **Next** on the **Destination URL** step. Use this screen to verify your placement details before you complete the payment.
+Upon clicking the **Next** button, the system directs you to review the payment page. It depicts the following details:
 
-**Order Summary** - Gives a final overview of the purchase.
+**Order Summary** - Gives a final overview of the purchase for the category and competitor placement.
 
 **Destination URL** - Shows the selected call-to-action or destination type for the placement.
 
@@ -66,20 +55,13 @@ The **Review** screen appears after you click **Next** on the **Destination URL*
 
 After you review the details and click **Pay**, the system processes the payment and completes the placement order.
 
-Note: Once processed, this payment is non-refundable.
+**Note:** Ensure that all your details are correct before payment, as all transactions are final and non-refundable.
 
-## Placements Tab
+## Placements Screen
 
-The Paid **Placements** screen shows the performance and status of your active paid placement campaigns. Use this section to review campaign metrics, manage existing placements, and buy new placements. You can select the product for which you want to review or buy placements.
+The **Placements** screen appears when you select a product with ongoing placements. This screen displays the details of all campaigns linked to the selected product, including placement status, performance metrics, and payment summary.
 
-- Select the desired product from the dropdown option on the navigation bar.
-- If there is no ongoing campaign against a product, the system displays a 'Buy Placements' button to create a new campaign. If the product has an ongoing campaign, the system takes you to promotion details screen.
-
-## Performance Summary
-
-The **Placements** screen appears when you select a product with ongoing placements. This screen displays the details of all campaigns linked to the selected product, including active placement status, performance metrics, and spend summary.
-
-After you complete a payment, the system also redirects you to this same **Placements** screen and displays the newly purchased campaign in the **Your Placements** table.
+**Note:** After you complete a payment, the system also redirects you to this same Placements screen and displays the newly purchased campaign in the Your Placements table.
 
 #### **Performance Cards**
 
@@ -93,7 +75,7 @@ The performance cards at the top show stats for the current campaign only.
 
 **Active Spend** - Shows the current active spend assigned to your placements.
 
-#### **Your Placements Table**
+#### **Your Placements Table Section**
 
 The **Your Placements** table lists all placement campaigns for the selected product.
 
