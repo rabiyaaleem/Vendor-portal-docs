@@ -1,4 +1,4 @@
-    # Paid Placements
+   # **Paid Placement**
 
 Paid Placements help you drive clicks by placing your product in prominent category and competitor listing positions.In this section, you’ll go through a complete guide of selecting placements, configuring destination URLs.
 
