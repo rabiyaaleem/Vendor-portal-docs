@@ -11,7 +11,7 @@ Upon clicking the **Buy Placements** button on the landing page, the system take
 1. Review or edit the campaign name according to your choice.
 2. Select the preferred placements from the category list.
 3. Choose from the available spot positions, i.e. **1<sup>st</sup> , 2<sup>nd</sup> , 3<sup>rd</sup>, and 4<sup>th</sup>**. The 4<sup>th</sup> placement will always be a shared spot.
-4. Click on the Available Duration dropdown and choose from the provided options, i.e. **3 Months, 6 Months, 9 Months, and 12 Months**.
+4. Click on the **Available Duration** dropdown to select the required timeslot, i.e. **3 Months, 6 Months, 9 Months, and 12 Months**.
 
 **Note:** Once a spot is booked for a selected duration, it remains unavailable for that time frame. If the same spot is already booked, your placement will be scheduled for the next available date range based on your selected duration, i.e. 3, 6, 9, or 12 months.
 
