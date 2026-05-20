@@ -8,6 +8,7 @@ Upon clicking the **Buy Placements** button on the landing page, the system take
 
 #### Steps for Category Placement(s)
 
+<<<<<<< HEAD
 - Review or edit the campaign name according to your choice.
 - Select the preferred placements from the category list.
 - Choose from the available spot positions, i.e. **1<sup>st</sup> , 2<sup>nd</sup> , 3<sup>rd</sup>, and 4<sup>th</sup>**. The 4<sup>th</sup> placement will always be a shared spot.
@@ -25,13 +26,38 @@ Upon clicking the **Buy Placements** button on the landing page, the system take
 - Review the price for each selected placement.
 - Review the Selected Placements panel on the right. If you want to cancel any selected placement, hover over the placement and you will see **X** icon. Click the icon to cancel the specific placement.
 - Once done, Click **Next** to continue.
+=======
+1. Review or edit the campaign name according to your choice.
+2. Select the preferred placements from the category list.
+3. Choose from the available spot positions, i.e. **1<sup>st</sup> , 2<sup>nd</sup> , 3<sup>rd</sup>, and 4<sup>th</sup>**. The 4<sup>th</sup> placement will always be a shared spot.
+4. Click on the **Available Duration** dropdown to select the required timeslot, i.e. **3 Months, 6 Months, 9 Months, and 12 Months**.
+
+**Note:** Once a spot is booked for a selected duration, it remains unavailable for that time frame. If the same spot is already booked, you can schedule the placement for the next available duration.
+
+5. Review the payment against the spot.
+6. Review the Selected Placements panel on the right. If you want to cancel any selected placement, hover over the placement and you will see **X** icon. Click the icon to cancel the specific placement.
+
+#### Steps for Competitor Placement(s)
+
+1. Select the competitor's placements you want to purchase.
+2. Choose the available duration for each competitor's placement, i.e. 1<sup>st</sup> shared.
+3.  Review the price for each selected placement.
+4.  Review the Selected Placements panel on the right. If you want to cancel any selected placement, hover over the placement and you will see **X** icon. Click the icon to cancel the specific placement.
+>>>>>>> ad503a3f3b7fe3f14608d81693423bd4731c3f0b
 
 **Note:** You can select placements from both Category Placements and Competitor Placements, or choose placements from only one section, based on your campaign requirements.
 
+5.  Once done, Click **Next** to continue.
+
 ### **Details**
 
+<<<<<<< HEAD
 <div class="joplin-table-wrapper"><table><tbody><tr><th><p><strong>Field</strong></p></th><th><p><strong>Description</strong></p></th></tr><tr><td><p><strong>Campaign Name</strong></p></td><td><p>Displays the name of the campaign. You can edit the name according to your preference.</p></td></tr><tr><td><p><strong>Categories/ Competitors</strong></p></td><td><p>Displays the categories/competitors' names. You can select multiple categories/competitors.</p></td></tr><tr><td><p><strong>Traffic</strong></p></td><td><p>Shows the available traffic volume for that category/competitor.</p></td></tr><tr><td><p><strong>Spot</strong></p></td><td><p>Displays options of the placement position of category and competitor.</p></td></tr><tr><td><p><strong>Price</strong></p></td><td><p>Shows the cost of the selected category/competitor placement.</p></td></tr><tr><td><p><strong>Search</strong></p></td><td><p>Help you find a specific category/competitor.</p></td></tr><tr><td><p><strong>Available Duration</strong></p></td><td><p>Let's select the time for the selected placement spot.</p><ul><li><strong>Placement Duration</strong> - Shows the available booking periods for the selected category/competitor.</li><li><strong>Booked Until Date </strong>- Shows when the current booking for that spot ends.</li><li><strong>Duration Options</strong> - Lets you choose the length of the placement</li><li><strong>Date Range</strong> - Shows the exact start and end date for each available duration.</li></ul></td></tr></tbody></table></div>
+=======
+<div class="joplin-table-wrapper"><table><tbody><tr><th><p><strong>Field</strong></p></th><th><p><strong>Description</strong></p></th></tr><tr><td><p><strong>Campaign Name</strong></p></td><td><p>Displays the name of the campaign. You can edit the name according to your preference.</p></td></tr><tr><td><p><strong>Categories/ Competitors</strong></p></td><td><p>Displays the categories/competitors' names. You can select multiple categories/competitors.</p></td></tr><tr><td><p><strong>Traffic</strong></p></td><td><p>Shows the available traffic volume for that category/competitor.</p></td></tr><tr><td><p><strong>Spot</strong></p></td><td><p>Displays options of the placement position of category and competitor.</p></td></tr><tr><td><p><strong>Price</strong></p></td><td><p>Shows the cost of the selected category/competitor placement.</p></td></tr><tr><td><p><strong>Search</strong></p></td><td><p>Helps you find a specific category/competitor.</p></td></tr><tr><td><p><strong>Available Duration</strong></p></td><td><p>Let's select the time for the selected placement spot.</p><ul><li><strong>Placement Duration</strong> - Shows the available booking periods for the selected category/competitor.</li><li><strong>Booked Until Date </strong>- Shows when the current booking for that spot ends.
+>>>>>>> ad503a3f3b7fe3f14608d81693423bd4731c3f0b
 
+   
 #### Select a Destination URL
 
 The **Destination URL** screen displays a radio button for you to select the path of the URL.
