@@ -13,20 +13,18 @@ Upon clicking the **Buy Placements** button on the landing page, the system take
 3. Choose from the available spot positions, i.e. **1<sup>st</sup> , 2<sup>nd</sup> , 3<sup>rd</sup>, and 4<sup>th</sup>**. The 4<sup>th</sup> placement will always be a shared spot.
 4. Click on the **Available Duration** dropdown to select the required timeslot, i.e. **3 Months, 6 Months, 9 Months, and 12 Months**.
 
-**Note:** Once a spot is booked for a selected duration, it remains unavailable for that time frame. If the same spot is already booked, you can schedule the placement for the next available duration, i.e. 3, 6, 9, or 12 months.
+**Note:** Once a spot is booked for a selected duration, it remains unavailable for that time frame. If the same spot is already booked, you can schedule the placement for the next available duration.
 
 5. Review the payment against the spot.
-6. Review the Selected Placements panel on the right.
-7. Hover over a selected placement, and you will see the **X icon** to cancel any selected placement.
+6. Review the Selected Placements panel on the right. If you want to cancel any selected placement, hover over the placement and you will see **X** icon. Click the icon to cancel the specific placement.
 
 #### Steps for Competitor Placement(s)
 
 1. Select the competitor's placements you want to purchase.
 2. Choose the available duration for each competitor's placement, i.e. 1<sup>st</sup> shared.
 3.  Review the price for each selected placement.
-4.  Review the **Selected Placements** panel on the right.
-5.  Hover over a selected placement, and you will see the **X icon** to cancel any selected placement.
-6.  Once done, Click **Next** to continue.
+4.  Review the Selected Placements panel on the right. If you want to cancel any selected placement, hover over the placement and you will see **X** icon. Click the icon to cancel the specific placement.
+5.  Once done, Click **Next** to continue.
 
 **Note:** You can select placements from both Category Placements and Competitor Placements, or choose placements from only one section, based on your campaign requirements.
 
