@@ -42,7 +42,6 @@ Upon clicking the **Buy Placements** button on the landing page, the system take
 2. Choose the available duration for each competitor's placement, i.e. 1<sup>st</sup> shared.
 3.  Review the price for each selected placement.
 4.  Review the Selected Placements panel on the right. If you want to cancel any selected placement, hover over the placement and you will see **X** icon. Click the icon to cancel the specific placement.
->>>>>>> ad503a3f3b7fe3f14608d81693423bd4731c3f0b
 
 **Note:** You can select placements from both Category Placements and Competitor Placements, or choose placements from only one section, based on your campaign requirements.
 
