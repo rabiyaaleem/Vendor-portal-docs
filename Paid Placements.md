@@ -8,40 +8,38 @@ Upon clicking the **Buy Placements** button on the landing page, the system take
 
 #### Steps for Category Placement(s)
 
-1. Review or edit the campaign name according to your choice.
-2. Select the preferred placements from the category list.
-3. Choose from the available spot positions, i.e. **1<sup>st</sup> , 2<sup>nd</sup> , 3<sup>rd</sup>, and 4<sup>th</sup>**. The 4<sup>th</sup> placement will always be a shared spot.
-4. Click on the Available Duration dropdown and choose from the provided options, i.e. **3 Months, 6 Months, 9 Months, and 12 Months**.
+- Review or edit the campaign name according to your choice.
+- Select the preferred placements from the category list.
+- Choose from the available spot positions, i.e. **1<sup>st</sup> , 2<sup>nd</sup> , 3<sup>rd</sup>, and 4<sup>th</sup>**. The 4<sup>th</sup> placement will always be a shared spot.
+- Click on the Available Duration dropdown and choose from the options provided, i.e. **3 Months, 6 Months, 9 Months, and 12 Months**.
 
-**Note:** Once a spot is booked for a selected duration, it remains unavailable for that time frame. If the same spot is already booked, your placement will be scheduled for the next available date range based on your selected duration, i.e. 3, 6, 9, or 12 months.
+**Note:** Once a spot is booked for a selected duration, it remains unavailable for that time frame. If the same spot is already booked, you can schedule the placement for the next available duration.
 
-5. Review the payment against the spot.
-6. Review the Selected Placements panel on the right.
-7. Hover over a selected placement, and you will see the **X icon** to cancel any selected placement.
+- Review the payment against the spot.
+- Review the Selected Placements panel on the right. If you want to cancel any selected placement, hover over the placement and you will see **X** icon. Click the icon to cancel the specific placement.
 
 #### Steps for Competitor Placement(s)
 
-1. Select the competitor's placements you want to purchase.
-2. Choose the available duration for each competitor's placement, i.e. 1<sup>st</sup> shared.
-3.  Review the price for each selected placement.
-4.  Review the **Selected Placements** panel on the right.
-5.  Hover over a selected placement, and you will see the **X icon** to cancel any selected placement.
-6.  Once done, Click **Next** to continue.
+- Select the competitor's placements you want to purchase.
+- Choose the available duration for each competitor's placement, i.e. 1<sup>st</sup> shared.
+- Review the price for each selected placement.
+- Review the Selected Placements panel on the right. If you want to cancel any selected placement, hover over the placement and you will see **X** icon. Click the icon to cancel the specific placement.
+- Once done, Click **Next** to continue.
 
 **Note:** You can select placements from both Category Placements and Competitor Placements, or choose placements from only one section, based on your campaign requirements.
 
 ### **Details**
 
-<div class="joplin-table-wrapper"><table><tbody><tr><th><p><strong>Field</strong></p></th><th><p><strong>Description</strong></p></th></tr><tr><td><p><strong>Campaign Name</strong></p></td><td><p>Displays the name of the campaign. You can edit the name according to your preference.</p></td></tr><tr><td><p><strong>Categories/ Competitors</strong></p></td><td><p>Displays the categories/competitors' names. You can select multiple categories/competitors.</p></td></tr><tr><td><p><strong>Traffic</strong></p></td><td><p>Shows the available traffic volume for that category/competitor.</p></td></tr><tr><td><p><strong>Spot</strong></p></td><td><p>Displays options of the placement position of category and competitor.</p></td></tr><tr><td><p><strong>Price</strong></p></td><td><p>Shows the cost of the selected category/competitor placement.</p></td></tr><tr><td><p><strong>Search</strong></p></td><td><p>Helps you find a specific category/competitor.</p></td></tr><tr><td><p><strong>Available Duration</strong></p></td><td><p>Let's select the time for the selected placement spot.</p><ul><li><strong>Placement Duration</strong> - Shows the available booking periods for the selected category/competitor.</li><li><strong>Booked Until Date </strong>- Shows when the current booking for that spot ends.</li><li><strong>Duration Options</strong> - Lets you choose the length of the placement</li><li><strong>Date Range</strong> - Shows the exact start and end date for each available duration.</li></ul></td></tr></tbody></table></div>
+<div class="joplin-table-wrapper"><table><tbody><tr><th><p><strong>Field</strong></p></th><th><p><strong>Description</strong></p></th></tr><tr><td><p><strong>Campaign Name</strong></p></td><td><p>Displays the name of the campaign. You can edit the name according to your preference.</p></td></tr><tr><td><p><strong>Categories/ Competitors</strong></p></td><td><p>Displays the categories/competitors' names. You can select multiple categories/competitors.</p></td></tr><tr><td><p><strong>Traffic</strong></p></td><td><p>Shows the available traffic volume for that category/competitor.</p></td></tr><tr><td><p><strong>Spot</strong></p></td><td><p>Displays options of the placement position of category and competitor.</p></td></tr><tr><td><p><strong>Price</strong></p></td><td><p>Shows the cost of the selected category/competitor placement.</p></td></tr><tr><td><p><strong>Search</strong></p></td><td><p>Help you find a specific category/competitor.</p></td></tr><tr><td><p><strong>Available Duration</strong></p></td><td><p>Let's select the time for the selected placement spot.</p><ul><li><strong>Placement Duration</strong> - Shows the available booking periods for the selected category/competitor.</li><li><strong>Booked Until Date </strong>- Shows when the current booking for that spot ends.</li><li><strong>Duration Options</strong> - Lets you choose the length of the placement</li><li><strong>Date Range</strong> - Shows the exact start and end date for each available duration.</li></ul></td></tr></tbody></table></div>
 
 #### Select a Destination URL
 
 The **Destination URL** screen displays a radio button for you to select the path of the URL.
 
-1. Choose one of the available destination options:
-   - **Profile URL** - Select Profile URL to send traffic directly to the existing link already added to your Software Finder vendor profile.
-   - **Custom URL** - Select Custom URL to add a custom destination link and choose the call-to-action button from the Custom Button Text dropdown.
-2. Click **Next** to continue.
+- Choose one of the available destination options:
+  - **Profile URL** - Select Profile URL to send traffic directly to the existing link already added to your Software Finder vendor profile.
+  - **Custom URL** - Select Custom URL to add a custom destination link and choose the call-to-action button from the Custom Button Text dropdown.
+- Click **Next** to continue.
 
 #### Review and Complete Payment
 
@@ -61,7 +59,7 @@ After you review the details and click **Pay**, the system processes the payment
 
 The **Placements** screen appears when you select a product with ongoing placements. This screen displays the details of all campaigns linked to the selected product, including placement status, performance metrics, and payment summary.
 
-**Note:** After you complete a payment, the system also redirects you to this same Placements screen and displays the newly purchased campaign in the Your Placements table.
+**Note:** After you complete a payment, the system also redirects you to this same Placements screen and displays the newly purchased campaign on the Your Placements table.
 
 #### **Performance Cards**
 
@@ -77,11 +75,11 @@ The performance cards at the top show stats for the current campaign only.
 
 #### **Your Placements Table Section**
 
-The **Your Placements** table lists all placement campaigns for the selected product.
+Your Placements table lists all placement campaigns for the selected product.
 
 **Campaign Name** - Displays the name and date of the placement campaign.
 
-**Status** - Shows the status of the campaign, i.e. Active, Scheduled, Disabled, Completed.
+**Status** - Shows the status of the campaign, i.e. Active, Scheduled, Disabled, Ended.
 
 **Placements** - Shows the number of category and alternative placements included in the campaign.
 
@@ -93,7 +91,7 @@ The **Your Placements** table lists all placement campaigns for the selected pro
 
 ## **View Campaign Details**
 
-The **Campaign Details** modal appears when you click on a campaign from the **Your Placements** table. Use this modal to review all placements included in the selected campaign. Click **Edit** to update the campaign's destination URL settings. You can only edit the destination URL from this screen.
+The **Campaign Details** modal appears when you click on a campaign from **Your Placements** table. Use this modal to review all placements included in the selected campaign. Click **Edit** to update the campaign's destination URL settings. You can only edit the destination URL from this screen. Further, you can click the **↗** sign to visit the relevant category page.
 
 ## **Billing**
 
