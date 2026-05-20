@@ -45,11 +45,11 @@ The **Destination URL** screen displays a radio button for you to select the pat
 
 Upon clicking the **Next** button, the system directs you to review the payment page. It depicts the following details:
 
-**Order Summary** - Gives a final overview of the purchase for the category and competitor placement.
+- **Order Summary** - Gives a final overview of the purchase for the category and competitor placement.
 
-**Destination URL** - Shows the selected call-to-action or destination type for the placement.
+- **Destination URL** - Shows the selected call-to-action or destination type for the placement.
 
-**Total Due Today** - Shows the total payment amount for all selected placements.
+- **Total Due Today** - Shows the total payment amount for all selected placements.
 
 After you review the details and click **Pay**, the system processes the payment and completes the placement order.
 
@@ -65,29 +65,29 @@ The **Placements** screen appears when you select a product with ongoing placeme
 
 The performance cards at the top show stats for the current campaign only.
 
-**Total Impressions** - Shows how many times your promoted placements appear to users.
+- **Total Impressions** - Shows how many times your promoted placements appear to users.
 
-**Total Clicks** - Shows how many users click on your promoted placements.
+- **Total Clicks** - Shows how many users click on your promoted placements.
 
-**Avg. CTR** - Shows the average click-through rate for your placements.
+- **Avg. CTR** - Shows the average click-through rate for your placements.
 
-**Active Spend** - Shows the current active spend assigned to your placements.
+- **Active Spend** - Shows the current active spend assigned to your placements.
 
 #### **Your Placements Table Section**
 
 Your Placements table lists all placement campaigns for the selected product.
 
-**Campaign Name** - Displays the name and date of the placement campaign.
+- **Campaign Name** - Displays the name and date of the placement campaign.
 
-**Status** - Shows the status of the campaign, i.e. Active, Scheduled, Disabled, Ended.
+- **Status** - Shows the status of the campaign, i.e. Active, Scheduled, Disabled, Ended.
 
-**Placements** - Shows the number of category and alternative placements included in the campaign.
+- **Placements** - Shows the number of category and alternative placements included in the campaign.
 
-**Impressions** - Displays the number of times the campaign placements appear.
+- **Impressions** - Displays the number of times the campaign placements appear.
 
-**Clicks** - Displays the number of clicks the campaign receives.
+- **Clicks** - Displays the number of clicks the campaign receives.
 
-**Actions** - Lets you edit the selected placement campaign. You can only edit the destination URL for active and scheduled campaigns.
+- **Actions** - Lets you edit the selected placement campaign. You can only edit the destination URL for active and scheduled campaigns.
 
 ## **View Campaign Details**
 
@@ -101,15 +101,15 @@ The **Billing** screen appears when you select **Billing** from the product navi
 
 The **Payment History** table displays all payment records linked to the selected product.
 
-**Date** - Shows the payment date.
+- **Date** - Shows the payment date.
 
-**Amount** - Shows the payment amount.
+- **Amount** - Shows the payment amount.
 
-**Transaction** - Shows the transaction type, such as **Placements**.
+- **Transaction** - Shows the transaction type, such as **Placements**.
 
-**ID** - Shows the transaction ID for the payment.
+- **ID** - Shows the transaction ID for the payment.
 
-**Receipt Icon** - Opens the receipt for the selected placement payment.
+- **Receipt Icon** - Opens the receipt for the selected placement payment.
 
 ### **Change Payment Method**
 
@@ -117,30 +117,30 @@ Upon clicking the **Change Payment Method button**, you update the payment metho
 
 ## **FAQs**
 
-**Do I need to set up billing before creating a campaign?**
+1. **Do I need to set up billing before creating a campaign?**
 
 Yes. You must have a valid payment method on file (or provide one during checkout) before completing a campaign. The system redirects you to secure payment if no card is already saved.
 
-**What happens if I schedule a campaign for the future?**
+2. **What happens if I schedule a campaign for the future?**
 
 Your campaign remains in Scheduled status until the start date. On that date, it automatically transitions to Active, and your placements go live. You can edit the destination URL while the campaign is scheduled.
 
-**Can I edit a campaign after it goes live?**
+3. **Can I edit a campaign after it goes live?**
 
 Yes. You can change the destination URL (Profile URL vs. Custom URL) at any time while a campaign is Active or Scheduled. You cannot modify placement selections once the campaign is activated.
 
-**What is the difference between Category and Competitor placements?**
+4. **What is the difference between Category and Competitor placements?**
 
 Category placements display your product within category listings (e.g., "Project Management"), allowing users to browse that category to see you. Competitor placements display your product on competitor product pages, capturing users evaluating alternatives.
 
-**How is my campaign charged?**
+5. **How is my campaign charged?**
 
 Each placement has a fixed 3-month price determined by its type, position, and category/competitor of traffic. Your total cost is the sum of all selected placements. You are charged once upon campaign submission; the payment is non-refundable.
 
-**Why was my campaign marked as Disabled?**
+6. **Why was my campaign marked as Disabled?**
 
 An administrator may have disabled your campaign or one of its placements for compliance, performance, or inventory reasons. Contact support for clarification and possible re-activation options.
 
-**When do impressions and clicks start accruing?**
+7. **When do impressions and clicks start accruing?**
 
 Impressions and clicks begin accruing once your campaign transitions to Active, and placements go live. This typically occurs within one hour of the campaign's start date.
