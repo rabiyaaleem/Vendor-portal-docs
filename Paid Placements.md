@@ -117,30 +117,35 @@ Upon clicking the **Change Payment Method button**, you update the payment metho
 
 ## **FAQs**
 
-1. **Do I need to set up billing before creating a campaign?**
+
+**Do I need to set up billing before creating a campaign?**
 
 Yes. You must have a valid payment method on file (or provide one during checkout) before completing a campaign. The system redirects you to secure payment if no card is already saved.
 
-2. **What happens if I schedule a campaign for the future?**
+**What happens if I schedule a campaign for the future?**
 
 Your campaign remains in Scheduled status until the start date. On that date, it automatically transitions to Active, and your placements go live. You can edit the destination URL while the campaign is scheduled.
 
-3. **Can I edit a campaign after it goes live?**
+**Can I edit a campaign after it goes live?**
 
 Yes. You can change the destination URL (Profile URL vs. Custom URL) at any time while a campaign is Active or Scheduled. You cannot modify placement selections once the campaign is activated.
 
-4. **What is the difference between Category and Competitor placements?**
+**What is the difference between Category and Competitor placements?**
 
 Category placements display your product within category listings (e.g., "Project Management"), allowing users to browse that category to see you. Competitor placements display your product on competitor product pages, capturing users evaluating alternatives.
 
-5. **How is my campaign charged?**
+**How is my campaign charged?**
 
 Each placement has a fixed 3-month price determined by its type, position, and category/competitor of traffic. Your total cost is the sum of all selected placements. You are charged once upon campaign submission; the payment is non-refundable.
 
-6. **Why was my campaign marked as Disabled?**
+**Why was my campaign marked as Disabled?**
 
 An administrator may have disabled your campaign or one of its placements for compliance, performance, or inventory reasons. Contact support for clarification and possible re-activation options.
 
-7. **When do impressions and clicks start accruing?**
+**When do impressions and clicks start accruing?**
 
 Impressions and clicks begin accruing once your campaign transitions to Active, and placements go live. This typically occurs within one hour of the campaign's start date.
+
+**I purchased the 4th spot, but I’m unable to see it. Could you please explain why?**
+
+Apparently, the 4th spot is a shared position used by multiple vendors, so it may become visible after a few refreshes or after some time.
